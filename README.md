@@ -18,7 +18,7 @@ Python 版本: Python 3.8 或更高版本
 ## 复现步骤
 ## 1. 安装 Python 和相关包
    - 确保已安装 Python 3.8 或更高版本。
-   - 使用 pip 安装所需的包：
+   - 使用 pip 安装所需的包。
 ## 2. 获取数据
 项目中使用的数据文件 `music.csv` 需要从指定的数据源获取（链接:https://pan.baidu.com/s/1SUn-UgV8Yk7R-gtmXzTUTQ 提取码: pyyj）。
 ## 3. 运行代码
